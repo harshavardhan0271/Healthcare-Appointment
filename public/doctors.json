@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sarah Johnson",
+    "specialization": "Cardiologist",
+    "image": "https://randomuser.me/api/portraits/women/44.jpg",
+    "available": true,
+    "bio": "Expert in cardiovascular health with 10+ years experience."
+  },
+  {
+    "id": 2,
+    "name": "Dr. Mike Brown",
+    "specialization": "Dermatologist",
+    "image": "https://randomuser.me/api/portraits/men/32.jpg",
+    "available": false,
+    "bio": "Skin specialist and acne treatment expert."
+  }
+]
